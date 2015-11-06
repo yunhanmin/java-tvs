@@ -1,0 +1,17 @@
+/*
+ * Project: AnalogDigitalDriver.java
+ * Description: Creates BWTVs and HDTVs
+ * Name: Juyoung Lee
+ * Date: Nov 6, 2015
+ */
+
+public class AnalogDigitalDriver {
+  
+  public ststic void main(Stirng [] args ) {
+    
+    BWTV bw =  new BWTV();
+    HDTV hd = new HDTV();
+    
+  } // END main method
+  
+} // END class AnalogDigitalDriver
